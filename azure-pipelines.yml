@@ -8,7 +8,6 @@ trigger:
 
 pool: Linux
 
-
 steps:
 - task: Maven@3
   inputs:
